@@ -5,6 +5,7 @@ A linear regression model to forecasting the new COVID-19 cases of next days.
 We predict the new COVID-19 italian cases for:
 - Total cases
 - New positive cases
+
 The predictions are for the next 7 days.
 
 ## Results
