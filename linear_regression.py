@@ -88,6 +88,7 @@ def plot_prediction(y, predictions, title):
     plt.title(title)
     plt.legend()
     plt.show()
+    fig.savefig(title + ".png")
 
 # Arrange data and run the routine
 def routine(series, title):
