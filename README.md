@@ -1,5 +1,6 @@
 # COVID-19-forecasting
 A linear regression model to forecasting the Italian new COVID-19 cases of next days.
+
 The data are provided by the Italian Civil Protection and can be consulted here: https://github.com/pcm-dpc/COVID-19
 
 ## Description
