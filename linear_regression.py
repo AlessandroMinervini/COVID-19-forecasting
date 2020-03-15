@@ -24,7 +24,7 @@ except:
 # Setting parameters
 config = {
     'days_to_forecast': 7,
-    'polynomial_degree': 3
+    'polynomial_degree': 2
 }
 
 # Define linear regression  methods
