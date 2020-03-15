@@ -10,7 +10,7 @@ The predictions are for the next 7 days.
 
 ## Results
 | Data  | Total cases - true value | Total cases - prediction| New positive cases - true value | New positive cases - prediction|
-| ------------- | ------------- |------------- | ------------- |------------- |
+| :-------------: | :-------------: |:-------------: | :-------------: |:-------------: |
 | 16-03  | Update at 18.00 | 26088 | Update at 18.00  | 3218 |
 
 
