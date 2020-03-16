@@ -19,7 +19,7 @@ Every day I will update the table with the number of cases actually verified wit
 | 17-03  | Update at 18.00 | 29908 | Update at 18.00  | 3254 |
 
 
-![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italian%20new-daily%20cases%20prediction.png)
+![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italiannew-dailycasesprediction.png)
 
-![Italian new-daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italian%20total%20cases%20prediction.png)
+![Italian new-daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italiantotalcasesprediction.png)
 
