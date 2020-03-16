@@ -15,7 +15,8 @@ The predictions are for the next 7 days.
 Every day I will update the table with the number of cases actually verified with the model predictions for the next day.
 | Data  | Total cases | Total cases - prediction| New positive cases| New positive cases - prediction|
 | :-------------: | :-------------: |:-------------: | :-------------: |:-------------: |
-| 16-03  | Update at 18.00 | 26088 | Update at 18.00  | 3218 |
+| 16-03  | 27980 | 26088 | 2470  | 3218 |
+<!--- | 17-03  | Update at 18.00 | 26088 | Update at 18.00  | 3218 | -->
 
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italian%20new-daily%20cases%20prediction.png)
