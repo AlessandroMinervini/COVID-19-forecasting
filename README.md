@@ -11,14 +11,17 @@ We predict the new COVID-19 italian cases for:
 
 The predictions are for the next 7 days.
 
+## Note
+I fixed the polynomial degree, depending on the tasks mentioned above.
+
 ## Results
 Every day I will update the table with the number of cases actually verified and the model predictions for the next day.
 | Data  | Total cases | Total cases - prediction| New positive cases| New positive cases - prediction|
 | :-------------: | :-------------: |:-------------: | :-------------: |:-------------: |
-| 16-03  | 27980 | 26088 | 2470  | 3218 |
-| 17-03  | 31506	 | 29908 | 2989 | 3254 |
-| 18-03  | 35713 | 33884 | 2648 | 3458 |
-| 19-03  | Update at 18.00 | 38204 | Update at 18.00 | 3459 |
+| 16-03  | 27980 | 29070 | 2470  | 3329 |
+| 17-03  | 31506	 | 32202 | 2989 | 3107 |
+| 18-03  | 35713 | 35365 | 2648 | 3256 |
+| 19-03  | Update at 18.00 | 39514 | Update at 18.00 | 3054 |
 
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italiannew-dailycasesprediction.png)
