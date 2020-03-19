@@ -5,7 +5,7 @@ The data are provided by the Italian Civil Protection and can be consulted here:
 New daily data are available from 18.00.
 
 ## Description
-We predict the new COVID-19 italian cases for:
+I predict the new COVID-19 italian cases for:
 - Total cases
 - New positive cases
 
