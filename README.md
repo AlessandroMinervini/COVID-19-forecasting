@@ -7,7 +7,7 @@ New daily data are available from 18.00.
 ## Description
 I predict the new COVID-19 italian cases for:
 - Total cases
-- New positive cases
+- New positive cases (hospitalized + home isolation)
 
 The predictions are for the next 7 days.
 
