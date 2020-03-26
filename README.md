@@ -27,8 +27,8 @@ Every day I will update the table with the number of cases actually verified and
 | 22-03  | 59138	 | 60380 | 3957 | 5215 |
 | 23-03  | 63927 | 66679 | 3780	 | 4961 |
 | 24-03  | 69176 | 71134 | 3780	 | 4614 |
-| 25-03  | Update at 18.00 | 75374 | Update at 18.00	 | 4224 |
-
+| 25-03  | 74386 | 75374 | 3491	 | 4224 |
+| 26-03  | Update at 18.00 | 79570 | Update at 18.00	 | 3842 |
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italiannew-dailycasesprediction.png)
 
