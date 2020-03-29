@@ -8,11 +8,13 @@ New daily data are available from 18.00.
 I predict the new COVID-19 italian cases for:
 - Total cases
 - New positive cases (hospitalized + home isolation)
+- Daily intensive Care patients
 
 The predictions are for the next 7 days.
 
 ## Note
-I fixed the polynomial degree, depending on the tasks mentioned above.
+- I fixed the polynomial degree, depending on the tasks mentioned above.
+- Added daily intensive care patients to the task (from 30-03).
 
 ## Results
 Every day I will update the table with the number of cases actually verified and the model predictions for the next day.
@@ -38,4 +40,12 @@ Every day I will update the table with the number of cases actually verified and
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italiannew-dailycasesprediction.png)
 
 ![Italian new-daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italiantotalcasesprediction.png)
+
+## Update for daily intensive care patients
+| Data  | Daily intensive care | Daily intensive care - prediction| 
+| :-------------: | :-------------: |:-------------: |
+| 30-03  | Update at 18.00 | 108 |
+
+![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/ItaliandailyintensiveCarepatients.png)
+
 
