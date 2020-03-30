@@ -15,7 +15,7 @@ The predictions are for the next 3 days.
 ## Note
 - I fixed the polynomial degree, depending on the tasks mentioned above.
 - Added daily intensive care patients to the task (from 30-03).
-- Updated numeber of days to forecast.
+- Updated number of days to forecast.
 
 ## Results
 Every day I will update the table with the number of cases actually verified and the model predictions for the next day.
