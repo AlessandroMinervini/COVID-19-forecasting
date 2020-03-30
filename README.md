@@ -45,7 +45,7 @@ Every day I will update the table with the number of cases actually verified and
 ## Update for daily intensive care patients
 | Data  | Daily intensive care | Daily intensive care - prediction| 
 | :-------------: | :-------------: |:-------------: |
-| 30-03  | Update at 18.00 | 108 |
+| 30-03  | 75 | 108 |
 | 30-03  | Update at 18.00 | 90|
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/ItaliandailyintensiveCarepatients.png)
