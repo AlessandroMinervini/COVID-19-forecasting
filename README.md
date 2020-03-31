@@ -36,7 +36,9 @@ Every day I will update the table with the number of cases actually verified and
 | 28-03  | 92472| 90641 | 3651	| 4106 |
 | 29-03  | 97689| 96544 | 3815	| 3778 |
 | 30-03  | 101739 | 101754 | 1648	 | 3592 |
-| 31-03  | Update at 18.00 | 105501 | Update at 18.00	| 2477 |
+| 31-03  | 105792 | 105501 | 2107	| 2477 |
+| 01-04 | Update at 18.00 | 108659 | Update at 18.00	| 1860 |
+
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italiannew-dailycasesprediction.png)
 
@@ -46,7 +48,8 @@ Every day I will update the table with the number of cases actually verified and
 | Data  | Daily intensive care | Daily intensive care - prediction| 
 | :-------------: | :-------------: |:-------------: |
 | 30-03  | 75 | 108 |
-| 31-03  | Update at 18.00 | 90|
+| 31-03  | 42 | 90|
+| 01-04  | Update at 18.00 | 66|
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/ItaliandailyintensiveCarepatients.png)
 
