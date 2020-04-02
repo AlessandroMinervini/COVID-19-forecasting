@@ -54,7 +54,7 @@ Every day I will update the table with the number of cases actually verified and
 | 31-03  | 42 | 90|
 | 01-04  | 12| 66|
 | 02-04  | 20 | 40|
-| 03-04  | Update at 18.00 | 40|
+| 03-04  | Update at 18.00 | 19|
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/ItaliandailyintensiveCarepatients.png)
 
