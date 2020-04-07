@@ -43,7 +43,8 @@ Every day I will update the table with the number of cases actually verified and
 | 04-04 | 124632 | 120889 | 2886	| 1227 |
 | 05-04 | 128948 | 125679 | 2972	| 1275 |
 | 06-04 | 132547	| 130346 | 1941	| 1367 |
-| 07-04 | Update at 18.00 | 134393 | Update at 18.00	| 1076 |
+| 07-04 | 135586 | 134393 | 880	| 1076 |
+| 08-04 | Update at 18.00 | 137693 | Update at 18.00	| 482 |
 
 
 
@@ -62,7 +63,8 @@ Every day I will update the table with the number of cases actually verified and
 | 04-04  | -74 | 1|
 | 05-04  | -17 | -34|
 | 06-04  | -79 | -51|
-| 07-04  | Update at 18.00 | -78|
+| 07-04  | -106 | -78|
+| 08-04  | Update at 18.00 | -107|
 
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/ItaliandailyintensiveCarepatients.png)
