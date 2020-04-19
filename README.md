@@ -53,7 +53,10 @@ Every day I will update the table with the number of cases actually verified and
 | 14-04 | 162488 | 164062 | 675	| 953 |
 | 15-04 | 165155 | 167776 | 1127	| 680 |
 | 16-04 | 168941 | 170933 | 1189	| 519 |
-| 17-04 | Update at 18.00 | 174528 | Update at 18.00	| 389 |
+| 17-04 | 172434 | 174528 | 355	| 389 |
+| 18-04 | 175925 | 178234 | 809	| 138 |
+| 19-04 | Update at 18.00 |182022| Update at 18.00	| -8 |
+
 
 
 
@@ -65,16 +68,16 @@ Every day I will update the table with the number of cases actually verified and
 | Data  | Daily intensive care | Daily intensive care - prediction| 
 | :-------------: | :-------------: |:-------------: |
 | 30-03  | 75 | 108 |
-| 31-03  | 42 | 90|
-| 01-04  | 12| 66|
-| 02-04  | 20 | 40|
-| 03-04  | 15 | 19|
-| 04-04  | -74 | 1|
-| 05-04  | -17 | -34|
-| 06-04  | -79 | -51|
-| 07-04  | -106 | -78|
-| 08-04  | -99 | -107|
-| 09-04  | -88 | -130|
+| 31-03  | 42 | 90 |
+| 01-04  | 12| 66 |
+| 02-04  | 20 | 40 |
+| 03-04  | 15 | 19 |
+| 04-04  | -74 | 1 |
+| 05-04  | -17 | -34 |
+| 06-04  | -79 | -51 |
+| 07-04  | -106 | -78 |
+| 08-04  | -99 | -107 |
+| 09-04  | -88 | -130 |
 | 10-04  | -108 | -147 |
 | 11-04  | -116 | -165 |
 | 12-04  | -38 | -182 |
@@ -82,7 +85,10 @@ Every day I will update the table with the number of cases actually verified and
 | 14-04  | -74 | -189 |
 | 15-04  | -107 | -194 |
 | 16-04  | -43 | -203 |
-| 17-04  | Update at 18.00 | -216 |
+| 17-04  | -79 | -216 |
+| 18-04  | -124 | -225 |
+| 19-04  | Update at 18.00 | -224 |
+
 
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/ItaliandailyintensiveCarepatients.png)
