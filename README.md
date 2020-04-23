@@ -58,8 +58,8 @@ Every day I will update the table with the number of cases actually verified and
 | 19-04 | 178972	|182022| 486	| -8 |
 | 20-04 | 181228	| 185582 | -20	| -187 |
 | 21-04 | 183957	|188495| -528	| -423 |
-| 22-04 | Update at 18.00	|191288| Update at 18.00	| -709 |
-
+| 22-04 | 187327	|191288| -10	| -709 |
+| 23-04 | Update at 18.00	|194413| Update at 18.00	| -884 |
 
 
 
@@ -94,7 +94,9 @@ Every day I will update the table with the number of cases actually verified and
 | 19-04  | -98 | -224 |
 | 20-04  | -62 | - 226 |
 | 21-04  | -102| -222 |
-| 22-04  | Update at 18.00| -224 |
+| 22-04  | -87| -224 |
+| 23-04  | Update at 18.00| -71 |
+
 
 
 
