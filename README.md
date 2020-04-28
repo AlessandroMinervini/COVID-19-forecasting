@@ -64,7 +64,8 @@ Every day I will update the table with the number of cases actually verified and
 | 25-04 | 195351	|200370| -680	| -1331 |
 | 26-04 | 197675	|203088| 256	| -1531 |
 | 27-04 | 199414	|205583| -290	| -1574 |
-| 28-04 | Update at 18.00	|207607| Update at 18.00	|-1684|
+| 28-04 | 201505	|207607| -608	|-1684|
+| 29-04 | Update at 18.00	|209516| Update at 18.00	|-1824|
 
 
 ![Italian daily cases](https://github.com/AlessandroMinervini/COVID-19-forecasting/blob/master/img/Italiannew-dailycasesprediction.png)
@@ -103,7 +104,8 @@ Every day I will update the table with the number of cases actually verified and
 | 25-04  | -71| -83 |
 | 26-04  | -93| -86 |
 | 27-04  | -53| -90 |
-| 28-04  |Update at 18.00| -92 |
+| 28-04  | -93| -92 |
+| 29-04  | Update at 18.00| -96 |
 
 
 
