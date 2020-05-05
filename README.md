@@ -70,7 +70,8 @@ Every day I will update the table with the number of cases actually verified and
 | 01-05 | 207428	|213084| -608	|-2380|
 | 02-05 | 209328	|214777| -239	|-2449|
 | 03-05 | 210717	|216441| -525|-2458|
-| 04-05 | Update at 18.00	|217840| Update at 18.00	|-2499|
+| 04-05 | 211938	|217840| -199	|-2499|
+| 05-05 | Update at 18.00	|218984| Update at 18.00	|-2490|
 
 
 
@@ -116,7 +117,8 @@ Every day I will update the table with the number of cases actually verified and
 | 01-05  |-116| -102 |
 | 02-05  | -39| -106 |
 | 03-05  | -38 | -105 |
-| 04-05  | Update at 18.00| -106 |
+| 04-05  | -22| -106 |
+| 05-05  | Update at 18.00| -105 |
 
 
 
