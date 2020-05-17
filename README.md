@@ -81,7 +81,9 @@ Every day I will update the table with the number of cases actually verified and
 | 12-05 | 221216	|221479| -1222	|-3853|
 | 13-05 | 222104	|222567| -2809	|-3839|
 | 14-05 | 223096 |223603| -2017	|-4000|
-| 15-05 | Update at 18.00	|224637| Update at 18.00	|-4057|
+| 15-05 | 223885	|224637| -4370	|-4057|
+| 16-05 | 224760	|225618| -1883	|-4363|
+| 17-05 | Update at 18.00	|226591| Update at 18.00	|-4373|
 
 
 
@@ -138,7 +140,9 @@ Every day I will update the table with the number of cases actually verified and
 | 12-05  | -47 | -113 |
 | 13-05  | -59 | -113 |
 | 14-05  | -38 | -114 |
-| 15-05  | Update at 18.00 | -113 |
+| 15-05  | -47 | -113 |
+| 16-05  | -33 | -113 |
+| 17-05  | Update at 18.00 | -112 |
 
 
 
